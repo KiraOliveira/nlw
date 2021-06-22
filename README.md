@@ -12,3 +12,15 @@ Navegador Chrome;
 VScode;
 HTML;
 CSS.
+
+---
+
+2ª Aula NLW/Together - OriginSix - Profº Maik
+
+Criação:
+
+- Menu de Navegação;
+- Sessão Sobre;
+- Sessão Serviços.
+
+Usamos JavaScript na interação.
