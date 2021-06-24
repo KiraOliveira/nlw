@@ -29,14 +29,22 @@ Usamos JavaScript na interação.
 
 3ª Aula NLW/Together - OriginSix - Profº Mayk Brito
 
-Criação: 
+Criação:
 
-* Depoimentos;
-* Contatos;
-* Rodapé(Eu fiz sozinha para práticar);
+- Depoimentos;
+- Contatos;
+- Rodapé(Eu fiz sozinha para práticar).
 
 Ferramentas utilizadas
 
 Imagens - https://randomuser.me/photos (Para criação de imagens)
 Carrosel de Depoimentos - https://swiperjs.com/
 ScrollReveal - https://scrollrevealjs.org/
+
+---
+
+4ª Aula NLW/Together - OriginSix - Profº Mayk Brito
+
+- Estilização do Footer;
+- Button back to top;
+- Media Queries.
