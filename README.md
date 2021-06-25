@@ -48,3 +48,11 @@ ScrollReveal - https://scrollrevealjs.org/
 - Estilização do Footer;
 - Button back to top;
 - Media Queries.
+
+---
+
+5ª Aula NLW/Together - OriginSix - Profº Mayk Brito
+
+- Media Queires finalizada para 1200px;
+- Bugfix;
+- Link ativo do Menu.
