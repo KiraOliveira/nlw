@@ -76,7 +76,10 @@ body {
 }
 
 .button:hover {
-  background: var(--base-color-alt);
+  /*background: var(--base-color-alt);*/
+  background: rgba(20, 241, 204, 0.767);
+  color: black;
+
 }
 
 .divider-1 {
